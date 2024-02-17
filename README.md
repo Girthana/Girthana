@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Girthana
-- 👀 I’m a Senior Researcher at Anna University, Chennai
+- 👀 I’m a Visiting Faculty at Anna University, Chennai
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 Reach out to me at keerthi3110@gmail.com
 
